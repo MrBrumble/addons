@@ -4,10 +4,10 @@
 |     |  _  ||   ---||   _|  _  |__ --||     |    |  |  | _|  |_ __|  --  |
 |__|__|_____||______||__| |___._|_____||__|__|     \___/ |______|__|______|
                                                                            
-                 CLIENTSIDE NOTIFICATION SCRIPT - BY RAINBOW
+                 CLIENTSIDE NOTIFICATION SCRIPT - BY MRBRUMBLE
                       This is available for free on
                               GitHub
-                                  -- Developed by Hybrid Networks.
+                                 
 ]]
 
 
