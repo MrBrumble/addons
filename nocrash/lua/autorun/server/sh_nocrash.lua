@@ -4,7 +4,7 @@
 |     |  _  ||   ---||   _|  _  |__ --||     |    |  |  | _|  |_ __|  --  |
 |__|__|_____||______||__| |___._|_____||__|__|     \___/ |______|__|______|
                                                                            
- SERVERSIDE SCRIPT - AVAILABLE ON GITHUB - MADE BY RAINBOW.
+ SERVERSIDE SCRIPT - AVAILABLE ON GITHUB - MADE BY MrBrumble
 
 This script will stop cunt players trying to exploit 
  the advanced duplicator to crash/lag your server.
@@ -38,4 +38,4 @@ v.ModelScale = 1
 end
 end
 end)
-print("NoCrash Loaded - By Rainbow")
+print("NoCrash Loaded - By MrBrumble)
