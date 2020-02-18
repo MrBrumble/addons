@@ -2,14 +2,14 @@ if SERVER then
 	AddCSLuaFile()
 	local PLAYER = FindMetaTable("Player")
 	util.AddNetworkString( "ColoredMessage" )
-	function BroadcastMsg(...)
+	 local function BroadcastMsg(...)
 		local args = {...}
 		net.Start("ColoredMessage")
 		net.WriteTable(args)
 		net.Broadcast()
 	end
 
-	function PLAYER:PlayerMsg(...)
+	local function PLAYER:PlayerMsg(...)
 		local args = {...}
 		net.Start("ColoredMessage")
 		net.WriteTable(args)
