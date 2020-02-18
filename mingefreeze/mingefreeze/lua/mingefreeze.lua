@@ -1,14 +1,10 @@
------[[----------------------
+[[----------------------
 --      Minge-Freeze
 --          By
---   Rainbow & Berkark
---  Hybrid Gaming Servers
---        2017
--- MIT License is in effect 2017.
--- Please read Valve ToS and Steam ToS for licensing.
--- If you wish to edit this script please seek permission first.
--- -- Hybrid Gaming Network 2017.
-----------------]]-----------
+--      MrBrumble
+--      2017-2020
+--      MIT License in effect.
+----------------]]
 
 function FGod( ply, dmginfo )
     if(ply:GetNWInt("FGod") == 1) then
